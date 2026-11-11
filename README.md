@@ -1,6 +1,23 @@
 # Skills
 
-Claude Code skills collected from the repos I've starred, gathered in one place. Any Claude Code session that opens this repo loads everything in `.claude/skills/`.
+Claude Code skills collected from the repos I've starred, gathered in one place as the `starred-skills` plugin.
+
+## Install
+
+In Claude Code (cloud sessions or your own computer), run:
+
+```
+/plugin install starred-skills --marketplace ashrafha-cyber/skills
+```
+
+On older Claude Code versions, add the marketplace first:
+
+```
+/plugin marketplace add ashrafha-cyber/Skills
+/plugin install starred-skills@ashrafha-cyber
+```
+
+Skills then show up as `starred-skills:<name>`, for example `/starred-skills:stop-slop`. The skills themselves live in `skills/`.
 
 Each skill keeps its upstream license. See `third_party_licenses/`.
 

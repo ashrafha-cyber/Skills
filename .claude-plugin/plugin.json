@@ -1,0 +1,8 @@
+{
+  "name": "starred-skills",
+  "version": "1.0.0",
+  "description": "Skills collected from my starred repos: Matt Pocock's skills, stop-slop, impeccable, claude-mem workflows, ai-job-search and OmniRoute.",
+  "author": { "name": "ashrafha-cyber", "url": "https://github.com/ashrafha-cyber" },
+  "repository": "https://github.com/ashrafha-cyber/Skills",
+  "keywords": ["skills", "engineering", "writing", "design", "job-search"]
+}
